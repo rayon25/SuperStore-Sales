@@ -22,7 +22,7 @@ The results are:
 ## Data Sources
 
 The project uses sales data from the following sources:
-- **Data/SuperStore_Sales_Dataset.csv**
+- **https://github.com/PratikC07/SuperStore-Sales/blob/main/Data/SuperStore_Sales_Dataset.csv**
 
 Please refer to the documentation for more details on the data schema and structure.
 

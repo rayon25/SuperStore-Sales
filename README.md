@@ -22,7 +22,7 @@ The results are:
 ## Data Sources
 
 The project uses sales data from the following sources:
-- **https://github.com/PratikC07/SALES-ANALYSIS-DASHBOARD/blob/main/db_dump.sql**
+- **Data/SuperStore_Sales_Dataset.csv**
 
 Please refer to the documentation for more details on the data schema and structure.
 

@@ -28,7 +28,7 @@ Please refer to the documentation for more details on the data schema and struct
 
 ## Website Link
 
-You can access the interactive dashboard on our website: https://app.powerbi.com/view?r=eyJrIjoiMDQ3Y2I4NzYtYjkzNy00MjU1LTg3NWEtMmIyYjI2ZDFmY2NlIiwidCI6IjVlMjVjZTVhLWJlMzItNGUxYy05MjczLWYyY2MzODYzYjkzYSJ9
+You can access the interactive dashboard on our website: https://app.powerbi.com/view?r=eyJrIjoiNWQwNmVjOWUtYjBlNi00Mzk3LTllYzAtZTlkYWIzMmM0NDUwIiwidCI6IjVlMjVjZTVhLWJlMzItNGUxYy05MjczLWYyY2MzODYzYjkzYSJ9
 
 ## Conclusion
 The conclusion is that data analysis, especially time series, can help a business to do better by giving insights and predicting sales. The project also shows the skills and knowledge of the data analyst in using these techniques and making a dashboard.
